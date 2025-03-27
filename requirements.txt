@@ -1,0 +1,11 @@
+langchain_openai
+faiss-cpu
+langchain_community
+openai
+python-dotenv
+typer
+rich
+tqdm
+json5
+watchdog
+requests

@@ -1,0 +1,7 @@
+file_operations.log
+pdfCategorizer.py
+utils.py
+venv
+.env
+__pycache__
+agent.py
